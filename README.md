@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **React.js, Redux, Firebase, and Full Stack Development**  
-- 👨‍💻 My Portfolio: [sushantaryal.dev](https://your-portfolio-link.com/)  
+<!-- - 👨‍💻 My Portfolio: [sushantaryal.dev](https://your-portfolio-link.com/)  -->
 - 📫 Reach me at: **sushantaryal7@gmail.com**  
 - 💬 Ask me about **React, JavaScript, Firebase, and Frontend Development**  
 
@@ -26,11 +26,11 @@
 
 ## 📌 **Pinned Projects**
 ### 🚀 [Gmail Clone](https://github.com/SushantAryal7/gmail-clone)  
-🔗 **Live Demo:** [gmail-clone.vercel.app](https://gmail-clone.vercel.app)  
+<!-- 🔗 **Live Demo:** [gmail-clone.vercel.app](https://gmail-clone.vercel.app)  -->
 🛠 **Tech Stack:** React.js, Redux, Firebase  
 
 ### 🛒 [E-Commerce Website](https://github.com/SushantAryal7/ecommerce)  
-🔗 **Live Demo:** [shopnow.vercel.app](https://shopnow.vercel.app)  
+<!-- 🔗 **Live Demo:** [shopnow.vercel.app](https://shopnow.vercel.app)  -->
 🛠 **Tech Stack:** React.js, TailwindCSS, Firebase  
 
 ---
