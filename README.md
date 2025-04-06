@@ -29,7 +29,7 @@
 <!-- 🔗 **Live Demo:** [gmail-clone.vercel.app](https://gmail-clone.vercel.app)  -->
 🛠 **Tech Stack:** React.js, Redux, Firebase  
 
-### 🛒 [E-Commerce Website](https://github.com/SushantAryal7/ecommerce)  
+### 🛒 [E-Commerce Website](https://github.com/SushantAryal7/Ecommerce_Projects)  
 <!-- 🔗 **Live Demo:** [shopnow.vercel.app](https://shopnow.vercel.app)  -->
 🛠 **Tech Stack:** React.js, TailwindCSS, Firebase  
 
