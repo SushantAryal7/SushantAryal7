@@ -25,7 +25,7 @@
 ---
 
 ## 📌 **Pinned Projects**
-### 🚀 [Gmail Clone](https://github.com/SushantAryal7/gmail-clone)  
+### 🚀 [Gmail Clone](https://github.com/SushantAryal7/GmailClone)  
 <!-- 🔗 **Live Demo:** [gmail-clone.vercel.app](https://gmail-clone.vercel.app)  -->
 🛠 **Tech Stack:** React.js, Redux, Firebase  
 
