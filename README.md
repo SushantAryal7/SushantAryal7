@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Redux, Firebase, and Full Stack Development**  
 <!-- - 👨‍💻 My Portfolio: [sushantaryal.dev](https://your-portfolio-link.com/)  -->
-- 📫 Reach me at: **sushantaryal7@gmail.com**  
+- 📫 Reach me at: **aryasushant7@gmail.com**  
 - 💬 Ask me about **React, JavaScript, Firebase, and Frontend Development**  
 
 ---
